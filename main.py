@@ -14,7 +14,7 @@ COLORS = ["black", "white", "blue", "lightgray", "red"]
 # screen
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_COLOR = COLORS[1]
+SCREEN_COLOR = COLORS[2]
 
 # keyboard
 KEYBOARD_X = -350
